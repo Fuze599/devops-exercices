@@ -33,6 +33,7 @@ h1, h2 {
 h1 {
 	font-size: 3em; /* -> 8 */
 	font-style: italic;
+	color: red;
 }
 h2 {font-size: 1.8em;}
 h3 {font-size: 1.2em;}
